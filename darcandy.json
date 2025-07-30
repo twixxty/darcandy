@@ -1,0 +1,21 @@
+{
+    "manifest": {
+        "author": "twixxty",
+        "name": "Darcandy",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/porrinha09\/aliucord-themes\/main\/materialcord.json"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "statusbar": -15199463,
+        "background_secondary": -15658735,
+        "background": -15658735,
+        "active_channel": -12433843,
+        "mention_highlight": 13820917,
+        "accent": -11581362
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
